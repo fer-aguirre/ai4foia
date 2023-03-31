@@ -11,7 +11,11 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 requests = "*"
+transformers = "*"
 ai4foia = {editable = true, path = "."}
+datasets = "*"
+streamlit = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
